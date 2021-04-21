@@ -1,4 +1,4 @@
-<h1>I am Aryan Kadian</h1>
+<h1 href = "https://www.youtube.com/channel/UCnwyP8soLxZiFb5JHIx2xzg">I am Aryan Kadian</h1>
 <ul>
   <li>I have mastered Python and I am currently learning Node.js
   <li>I am a Sciene student in High School, and I have keen intrest in Physics and Mathematics
@@ -14,5 +14,5 @@
 <ul>
   <li>After mastering Node.js, i will learn C++ and try to participate in Open Source projects
   <li>I have to learn Data Science using Python
-  <li>I will make a automatic Montage Editor using C++[I prepared blueprint already]
+  <li>I will make a automatic Montage Editor using C++
 </ul> 
